@@ -1,4 +1,4 @@
-// TTS Native Windows for linguist by MoonDragon ( https://github.com/MoonDragon-MD/linguist-NLLB-translator )
+// NLLB-translator for nllb-serve by MoonDragon ( https://github.com/MoonDragon-MD/linguist-NLLB-translator )
 class NllbTranslator {
   apiPath = 'http://127.0.0.1:6060/translate';
 
